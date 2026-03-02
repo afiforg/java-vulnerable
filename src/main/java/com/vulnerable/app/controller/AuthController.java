@@ -1,5 +1,7 @@
 package com.vulnerable.app.controller;
 
+import java.util.Map;
+
 import com.vulnerable.app.dto.LoginRequest;
 import com.vulnerable.app.dto.LoginResponse;
 import com.vulnerable.app.model.User;
